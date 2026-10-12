@@ -1,6 +1,6 @@
 {
-  "login": 3,
-  "logout": 3,
-  "purchase": 3,
-  "updateProfile": 3
+  "login": 1,
+  "logout": 1,
+  "purchase": 1,
+  "updateProfile": 1
 }
